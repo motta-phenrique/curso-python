@@ -1,0 +1,3 @@
+Paulo;12 
+Ana;67 
+Arthur;25 
